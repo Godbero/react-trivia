@@ -1,4 +1,4 @@
-import Card from "bootstrap/dist/scss/_card.scss";
+import Card from "bootstrap/dist/scss/card.scss";
 
 function App() {
   return (
