@@ -14,12 +14,29 @@ function App() {
           </h2>
           <center>
             <button type="button" className="btn btn-primary">
-              Start!
+              <h5>Start!</h5>
             </button>
           </center>
           <div className="card">
-            <h3>Question:</h3>
+            <h3>Question: Roland Checked into the hotel under what name?</h3>
           </div>
+          <div className="card">
+            <h4>A: Damon Steel </h4>
+          </div>
+          <div className="card">
+            <h4>B: Dustin Steel </h4>
+          </div>
+          <div className="card">
+            <h4>C: Darren Steel </h4>
+          </div>
+          <div className="card">
+            <h4>D: Damian Steel </h4>
+          </div>
+          <center>
+            <button type="button" className="btn btn-primary">
+              <h5>Next</h5>
+            </button>
+          </center>
         </div>
       </div>
     </>
